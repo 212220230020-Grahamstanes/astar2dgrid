@@ -1,3 +1,5 @@
+## EX NO:04
+## DATE:17.05.2022
 # A* Path Finding Algorithm for 2D Grid World
 ## AIM
 
@@ -26,6 +28,8 @@ Pass all the values to the GirdProblem, and print the solution path.
 
 
 ## PROGRAM
+Developed by: A Graham stanes
+Register  No:  212220230020
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
