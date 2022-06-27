@@ -28,8 +28,10 @@ Pass all the values to the GirdProblem, and print the solution path.
 
 
 ## PROGRAM
+```
 Developed by: A Graham stanes
 Register  No:  212220230020
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
